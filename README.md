@@ -1,3 +1,3 @@
 # speak-number
 
-Simple Speak Recognition Program
+Simple Speech Recognition Program
